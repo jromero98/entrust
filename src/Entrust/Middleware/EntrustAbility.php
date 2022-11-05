@@ -1,4 +1,6 @@
-<?php namespace Trebol\Entrust\Middleware;
+<?php 
+
+namespace Trebol\Entrust\Middleware;
 
 /**
  * This file is part of Entrust,
