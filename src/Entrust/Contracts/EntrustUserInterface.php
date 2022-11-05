@@ -1,4 +1,6 @@
-<?php namespace Trebol\Entrust\Contracts;
+<?php 
+
+namespace Trebol\Entrust\Contracts;
 
 /**
  * This file is part of Entrust,

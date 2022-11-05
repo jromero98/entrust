@@ -1,4 +1,6 @@
-<?php namespace Trebol\Entrust;
+<?php 
+
+namespace Trebol\Entrust;
 
 /**
  * This class is the main entry point of entrust. Usually the interaction
