@@ -3,7 +3,10 @@
 ### Installation
 
 run:
-`composer require mprince2k16/entrust`
+`composer require mitchbred/entrust`
+
+run: laravel 9
+`composer require prince/entrust`
 
 Click [here](https://github.com/Zizaco/entrust/blob/master/README.md) for the full documentation.
 
