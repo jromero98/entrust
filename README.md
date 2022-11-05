@@ -3,7 +3,7 @@
 ### Installation
 
 run:
-`composer require mitchbred/entrust`
+`composer require mprince2k16/entrust`
 
 Click [here](https://github.com/Zizaco/entrust/blob/master/README.md) for the full documentation.
 
