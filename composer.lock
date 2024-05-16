@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a618daa5624ff992cba78a958a425a31",
+    "content-hash": "10128c12c17935522f92ec1e078efc91",
     "packages": [
         {
             "name": "brick/math",
@@ -5138,7 +5138,6 @@
         "sebastian/object-enumerator": 20,
         "sebastian/object-reflector": 20,
         "sebastian/recursion-context": 20,
-        "sebastian/type": 20,
         "sebastian/version": 20,
         "phpunit/phpunit": 20,
         "phpunit/php-code-coverage": 20,
