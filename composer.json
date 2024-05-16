@@ -60,7 +60,7 @@
         "sebastian/environment": "^7.0.1",
         "sebastian/exporter": "^6.0.1",
         "sebastian/global-state": "^7.0.1",
-        "sebastian/lines-of-code": "^3.0.1",
+        "sebastian/lines-of-code": "^3.0.0",
         "sebastian/object-enumerator": "^6.0.0",
         "sebastian/object-reflector": "^4.0.0",
         "sebastian/recursion-context": "^6.0.0",
