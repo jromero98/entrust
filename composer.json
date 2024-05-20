@@ -42,7 +42,7 @@
         "symfony/translation": "^6.3.0",
         "symfony/translation-contracts": "^3.3.0",
         "voku/portable-ascii": "^2.0.1",
-        "brick/math": "^0.11.0",
+        "brick/math": "^0.11.0 || ^0.12.0",
         "hamcrest/hamcrest-php": "^2.0.1",
         "myclabs/deep-copy": "^1.11.0",
         "nikic/php-parser": "^5.0.2",
