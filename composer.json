@@ -23,7 +23,7 @@
         "illuminate/view": "^11.0",
         "illuminate/database": "^11.0",
         "laravel/prompts": "^0.1.13",
-        "nesbot/carbon": "^2.71.0",
+        "nesbot/carbon": "^2.71.0 || ^3.0.0",
         "nunomaduro/termwind": "^2.0",
         "psr/clock": "^1.0.0",
         "psr/container": "^2.0.2",
