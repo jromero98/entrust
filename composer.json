@@ -72,7 +72,7 @@
         "symfony/event-dispatcher-contracts": "^3.3.0",
         "symfony/options-resolver": "^6.3.0",
         "symfony/var-exporter": "^6.3.0",
-        "symfony/yaml": "^6.3.0",
+        "symfony/yaml": "^6.3.0 || ^7.0.0",
         "theseer/tokenizer": "^1.2.1"
     },
     "require-dev": {
