@@ -35,7 +35,6 @@
         "symfony/polyfill-intl-grapheme": "^1.0.0",
         "symfony/polyfill-intl-normalizer": "^1.0.0",
         "symfony/polyfill-mbstring": "^1.0.0",
-        "symfony/polyfill-php80": "^1.0.0",
         "symfony/process": "^7.0",
         "symfony/service-contracts": "^3.3.0",
         "symfony/string": "^6.3.0",
